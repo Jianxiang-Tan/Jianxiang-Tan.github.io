@@ -4,8 +4,7 @@ image: images/jianxiang.png
 about:
   id: hero-heading
   template: trestles
-  image-width: 12
-  em
+  image-width: 12em
   image-shape: round
   links:
     - icon: mailbox

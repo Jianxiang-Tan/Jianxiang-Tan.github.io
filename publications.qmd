@@ -5,7 +5,11 @@ editor: visual
 
 ## Journal Papers
 
--   **Tan, J.**, & Yanto, C. 2025. AI as a framework for public service innovation, **Public Money & Management**, Online. [Link](https://doi.org/10.1080/09540962.2025.2505206)
+**Tan, J.**, & Yanto, C. 2025. AI as a framework for public service innovation, **Public Money & Management**, Online. [Link](https://doi.org/10.1080/09540962.2025.2505206)
+
+**Tan, J.**, & Yanto, C. 2026. Governing Military Artificial Intelligence Technologies: Manufacturing War or Peace with Artificial Intelligence, Chinese Political Science Review.
+
+ 
 
 ## Book Chapter
 
