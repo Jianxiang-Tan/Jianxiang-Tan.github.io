@@ -4,23 +4,22 @@ editor:
   markdown: 
     wrap: 72
 ---
-
 ## Conference Papers & Presentations
 
-### June 2025 — Public Management Research Conference (PMRC) 2025
-Seoul National University, Korea
+### 2025
+- <span style="color: #f9af11;">**Jun — PMRC (Seoul National University, Korea)**</span>  
+  Yanto Chandra & **Jianxiang Tan** — "Mapping the Landscape of Public Sector Innovation: A Topic Modeling Approach."
 
-- Yanto Chandra & **Jianxiang Tan** — "Mapping the Landscape of Public Sector Innovation: A Topic Modeling Approach."
+- <span style="color: #f9af11;">**Apr — IRSPM (Italy)**</span>  
+  **Jianxiang Tan** & Yanto Chandra — "Artificial Intelligence Recommendations and Citizen Compliance: A Public Value Creation Perspective."
+ 
+  Yanto Chandra, Yiyun Luo, & **Jianxiang Tan** — "Trust Me, I am Almost a Doctor: Uncertainty in AI-mediated Doctor-Patient Interactions."
 
-### April 2025 — Civic Engagement and Social Capital in Contemporary Public Administration
-International Research Society for Public Management (IRSPM), Italy
+  Yanto Chandra & **Jianxiang Tan** — "Probing the Past to Chart Plausible Futures in Public Sector Innovation: Toward a Design Science in AI-Driven Public Administration."
 
-- **Jianxiang Tan** & Yanto Chandra — "Artificial Intelligence Recommendations and Citizen Compliance: A Public Value Creation Perspective."
-- Yanto Chandra, Yiyun Luo, & **Jianxiang Tan** — "Trust Me, I am Almost a Doctor: Uncertainty in Artificial Intelligence Mediated Doctor-Patient Interactions."
-- Yanto Chandra & **Jianxiang Tan** — "Probing the Past to Chart Plausible Futures in Public Sector Innovation: Toward a Design Science in AI-Driven Public Administration"
+### 2024
+- <span style="color: #f9af11;">**Nov — AI & Public Policy International Conference (Nanyang Technological University, Singapore)**</span>  
+  **Jianxiang Tan** & Yanto Chandra — "Artificial Intelligence Recommendations and Citizen Compliance: A Public Value Creation Perspective."
 
-### November 2024 - AI and Public Policy International Conference 2024
-Nanyang Technological University, Singapore
+  Yanto Chandra & **Jianxiang Tan** — "Predicting Public Service Innovation Outcomes using Generative Artificial Intelligence."
 
-- **Jianxiang Tan** and Yanto Chandra - “Artificial Intelligence Recommendations and Citizen Compliance: A Public Value Creation Perspective.”
-- Yanto Chandra and **Jianxiang Tan** - “Predicting Public Service Innovation Outcomes using Generative Artificial Intelligence.”
