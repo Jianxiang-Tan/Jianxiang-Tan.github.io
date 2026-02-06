@@ -6,11 +6,16 @@ editor:
 ---
 ## Conference Papers & Presentations
 
+
+### 2026
+- <span style="color: #f96211;">**Feb — PUBSIC (Corvinus University of Budapest, Hungary)**</span>  
+  **Jianxiang Tan**, Guanru Zhang, Helen Bao, & Yanto Chandra — "Public Blame in Algorithmic Welfare Services: Citizens’ Allocation of Responsibility Across the Network of Actors."
+
 ### 2025
-- <span style="color: #f9af11;">**Jun — PMRC (Seoul National University, Korea)**</span>  
+- <span style="color: #f96211;">**Jun — PMRC (Seoul National University, Korea)**</span>  
   Yanto Chandra & **Jianxiang Tan** — "Mapping the Landscape of Public Sector Innovation: A Topic Modeling Approach."
 
-- <span style="color: #f9af11;">**Apr — IRSPM (Italy)**</span>  
+- <span style="color: #f96211;">**Apr — IRSPM (University of Bologna, Italy)**</span>  
   **Jianxiang Tan** & Yanto Chandra — "Artificial Intelligence Recommendations and Citizen Compliance: A Public Value Creation Perspective."
  
   Yanto Chandra, Yiyun Luo, & **Jianxiang Tan** — "Trust Me, I am Almost a Doctor: Uncertainty in AI-mediated Doctor-Patient Interactions."
@@ -18,7 +23,7 @@ editor:
   Yanto Chandra & **Jianxiang Tan** — "Probing the Past to Chart Plausible Futures in Public Sector Innovation: Toward a Design Science in AI-Driven Public Administration."
 
 ### 2024
-- <span style="color: #f9af11;">**Nov — AI & Public Policy International Conference (Nanyang Technological University, Singapore)**</span>  
+- <span style="color: #f96211;">**Nov — AI & Public Policy International Conference (Nanyang Technological University, Singapore)**</span>  
   **Jianxiang Tan** & Yanto Chandra — "Artificial Intelligence Recommendations and Citizen Compliance: A Public Value Creation Perspective."
 
   Yanto Chandra & **Jianxiang Tan** — "Predicting Public Service Innovation Outcomes using Generative Artificial Intelligence."
