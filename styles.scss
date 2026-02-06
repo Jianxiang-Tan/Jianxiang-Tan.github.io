@@ -78,6 +78,7 @@ $link-hover-color: $blue; /* 链接悬停时的颜色 */
 body {
   line-height: 1.7; /* 正文的行间距设置为 1.7 */
   color: #000000; /* 正文字体颜色为黑色 */
+  font-size: 18px; /* body text size */
 }
 
 /* 2. 列表项的行间距调整 */
@@ -155,6 +156,13 @@ h4 {
   margin-top: 0.5rem;
 }
 
+/* Remove bullets from single-line list items */
+.single-line {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
 @media (min-width: 640px) {
   .background-list .single-line {
     white-space: nowrap;
@@ -198,15 +206,22 @@ h4 {
   }
 }
 
+/* Stack about links vertically */
+.about-links {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0.5rem;
+}
+
 /* Slightly shift main/about layout left to reduce left whitespace */
 @media (min-width: 640px) {
   .quarto-about-trestles {
-    margin-left: -3.5rem; /* move left a bit more */
+    margin-left: -9rem; /* move left further */
   }
 
   .quarto-about-trestles .about-contents {
     padding-left: 0; /* remove extra left padding */
-    transform: translateX(-1.5rem); /* nudge contents further left */
+    transform: translateX(-2.5rem); /* nudge contents further left */
   }
 }
 

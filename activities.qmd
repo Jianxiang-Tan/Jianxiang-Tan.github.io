@@ -5,7 +5,9 @@ editor:
     wrap: 72
 ---
 
-- <span style="color: #f96211;">**Jan 2025 - Jun 2025 Teaching Assistant**</span>  
+<div style="margin-left: 0;">
+  <span style="color: #f96211;"><strong>Jan 2025 - Jun 2025 Teaching Assistant</strong></span>
+</div>
 
 Course: Statistical Analysis for Public Policy and Management (Instructor: Yanto Chandra) 
 
