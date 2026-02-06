@@ -201,12 +201,12 @@ h4 {
 /* Slightly shift main/about layout left to reduce left whitespace */
 @media (min-width: 640px) {
   .quarto-about-trestles {
-    margin-left: -2.5rem; /* move left more */
+    margin-left: -3.5rem; /* move left a bit more */
   }
 
   .quarto-about-trestles .about-contents {
     padding-left: 0; /* remove extra left padding */
-    transform: translateX(-1rem); /* nudge contents further left */
+    transform: translateX(-1.5rem); /* nudge contents further left */
   }
 }
 
