@@ -21,6 +21,8 @@ website:
         href: conferences.qmd
       - text: "Activities"
         href: activities.qmd
+      - text: "Life"
+        href: life.qmd
 
 format:
   html:

@@ -1,0 +1,14 @@
+---
+title: "Life"
+---
+
+## My Cat
+
+A collection of moments and memories of my cat.
+
+<div class="life-vertical">
+<img src="images/cat1.JPG" alt="Cat 1">
+<img src="images/cat2.JPG" alt="Cat 2">
+<img src="images/cat3.JPG" alt="Cat 3">
+<img src="images/cat4.JPG" alt="Cat 4">
+</div>
