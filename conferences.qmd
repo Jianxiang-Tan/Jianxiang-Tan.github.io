@@ -4,7 +4,7 @@ editor:
   markdown: 
     wrap: 72
 ---
-## Conference Papers & Presentations
+
 
 
 ### 2026
