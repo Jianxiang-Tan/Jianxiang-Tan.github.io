@@ -127,6 +127,11 @@ h4 {
   color: $theme-darkgreen1;
 }
 
+/* Hero lead paragraph — justified text */
+.hero-lead {
+  text-align: justify;
+}
+
 /* 代码块和推送样式 */
 .render-commit-push {
   padding: 0.5em 0.5em 0em 3em;
