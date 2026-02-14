@@ -13,4 +13,4 @@ Course: Statistical Analysis for Public Policy and Management (Instructor: Yanto
 
 Main Tasks: (1) Guest lecture: An Introduction to Survey Experiment; (2) Assess students’ assignments
 
-![](images/course.jpg){fig-align="center" width=300px}
+![](images/course.jpg){fig-align="center" width=300px, height=200px}
