@@ -5,12 +5,12 @@ editor: visual
 
 ## Journal Papers
 
-**Jianxiang Tan**, & **Yanto Chandra** (2026). Governing Military Artificial Intelligence Technologies: Manufacturing War or Peace with Artificial Intelligence. *Chinese Political Science Review* (Q1, IF=3.1) (Accepted).
+**Jianxiang Tan**, & **Yanto Chandra** (2026). Governing Military Artificial Intelligence Technologies: Manufacturing War or Peace with Artificial Intelligence. *Chinese Political Science Review* (Q1, IF=3.1). [**https://link.springer.com/article/10.1007/s41111-026-00334-5**](https://link.springer.com/article/10.1007/s41111-026-00334-5).
 
-**Yanto Chandra, & Jianxiang Tan.** (2026). Re-Imagining the Epistemic Possibilities of GPT for Public Administration Research in Competitive Settings. *Public Administration Review* (Q1, IF=4.9). [**https://doi.org/10.1111/puar.70098**](https://doi.org/10.1111/puar.70098).
+**Yanto Chandra**, & **Jianxiang Tan** (2026). Re-Imagining the Epistemic Possibilities of GPT for Public Administration Research in Competitive Settings. *Public Administration Review* (Q1, IF=4.9). [**https://doi.org/10.1111/puar.70098**](https://doi.org/10.1111/puar.70098).
 
-**Jianxiang Tan**, & **Yanto Chandra** (2025). AI as a framework for public service innovation. *Public Money & Management*. [doi](https://doi.org/10.1080/09540962.2025.2505206) (Q2, IF=2.1)
+**Jianxiang Tan**, & **Yanto Chandra** (2025). AI as a framework for public service innovation. *Public Money & Management* (Q2, IF=2.1). [**https://doi.org/10.1080/09540962.2025.2505206**](https://doi.org/10.1080/09540962.2025.2505206)
 
 ## Book Chapter
 
-Yanto Chandra, Yiyun Luo., & **Jianxiang Tan.**2025. "Trust Me, I am Almost a Doctor: Uncertainty in Artificial Intelligence Mediated Doctor-Patient Interactions." In Artificial Intelligence and the Future of Human Relations – Eastern and Western Perspectives. Nature Springer. [Link](https://link.springer.com/book/10.1007/978-981-96-7185-4)
+**Yanto Chandra**, **Yiyun Luo**, & **Jianxiang Tan** (2025). "Trust Me, I Am Almost a Doctor: Uncertainty in Artificial Intelligence–Mediated Doctor–Patient Interactions." In *Artificial Intelligence and the Future of Human Relations – Eastern and Western Perspectives.* Springer Nature. [**https://link.springer.com/book/10.1007/978-981-96-7185-4**](https://link.springer.com/book/10.1007/978-981-96-7185-4).
