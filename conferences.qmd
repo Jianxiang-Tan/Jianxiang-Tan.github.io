@@ -8,6 +8,10 @@ editor:
 
 
 ### 2026
+- <span style="color: #f96211;">**April — IRSPM2026 (Edith Cowan University, Australia)**</span>  
+  Yanto Chandra, **Jianxiang Tan** — "Will Future Employees Prefer ‘AI as Street-level Managers’ in the Workplace?"
+
+
 - <span style="color: #f96211;">**Feb — PUBSIC (Corvinus University of Budapest, Hungary)**</span>  
   **Jianxiang Tan**, Guanru Zhang, Helen Bao, & Yanto Chandra — "Public Blame in Algorithmic Welfare Services: Citizens’ Allocation of Responsibility Across the Network of Actors."
 

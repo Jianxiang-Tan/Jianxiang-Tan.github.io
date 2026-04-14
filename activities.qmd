@@ -4,7 +4,7 @@ format: html
 ---
 
 
-### 17 Mar 2026 Guest Lecturer 
+### Mar 2026 Guest Lecturer 
 
 Course: PIA 6204 Statistical Analysis for Public Policy and Management (Instructor: Yanto Chandra)
 
