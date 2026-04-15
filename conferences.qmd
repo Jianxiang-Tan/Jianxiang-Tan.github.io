@@ -8,7 +8,7 @@ editor:
 
 
 ### 2026
-- <span style="color: #f96211;">**April — IRSPM2026 (Edith Cowan University, Australia)**</span>  
+- <span style="color: #f96211;">**Apr — IRSPM2026 (Edith Cowan University, Australia)**</span>  
   Yanto Chandra, **Jianxiang Tan** — "Will Future Employees Prefer ‘AI as Street-level Managers’ in the Workplace?"
 
 
