@@ -5,6 +5,8 @@ editor: visual
 
 ## Journal Papers
 
+**Jianxiang Tan**, & **Yanto Chandra** (2026). AI Street Level Bureaucracy: Deployment and Preferences for Public Sector Employment. *International Public Management Journal* (forthcoming)
+
 **Jianxiang Tan**, & **Yanto Chandra** (2026). Governing Military Artificial Intelligence Technologies: Manufacturing War or Peace with Artificial Intelligence. *Chinese Political Science Review* (Q1, IF=3.1). [**https://link.springer.com/article/10.1007/s41111-026-00334-5**](https://link.springer.com/article/10.1007/s41111-026-00334-5).
 
 **Yanto Chandra**, & **Jianxiang Tan** (2026). Re-Imagining the Epistemic Possibilities of GPT for Public Administration Research in Competitive Settings. *Public Administration Review* (Q1, IF=4.9). [**https://doi.org/10.1111/puar.70098**](https://doi.org/10.1111/puar.70098).
