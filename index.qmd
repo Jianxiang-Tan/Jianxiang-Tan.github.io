@@ -19,7 +19,7 @@ about:
 
 ::: {#hero-heading}
 
-<p class="hero-lead">Jianxiang Tan is currently a PhD candidate at the City University of Hong Kong. His research focuses on designing governance frameworks for artificial intelligence applications in the public sector, exploring how to balance technological efficacy with public interests, with particular emphasis on pathways to realize public values such as transparency, responsiveness, and accountability.</p>
+<p class="hero-lead">Jianxiang Tan is currently a PhD candidate at the City University of Hong Kong. His research focuses on designing governance frameworks for artificial intelligence applications in the public sector, exploring how to balance technological efficacy with public interests, and advance public values like transparency, responsiveness, and accountability. Meanwhile, he is also dedicated to exploring the epistemic capabilities of AI for public administration research.</p>
 
 ## Background
 
@@ -32,11 +32,12 @@ about:
 
 ## Research interests
 
-- AI governance
+- AI governance and ethics
 - Public sector innovation
-- Public values
+- Epistemic capabilities of AI for public administration research
 
 ## Prizes 
+- Outstanding Academic Performance Award, City University of Hong Kong (2026) 
 - Distinguish Visiting Professor (DVP) Scheme Scholarship, for 6-month research visit at the University of Cambridge, City University of Hong Kong & University of Cambridge (2025)
 - Research Tuition Scholarship, City University of Hong Kong (2025)
 
