@@ -5,6 +5,8 @@ editor: visual
 
 ## Journal Papers
 
+**Jianxiang Tan**, & **Yanto Chandra** (2026). Epistemic Progress After Four Decades of Scholarship in Public Sector Innovation: A State of Theory Evaluation Using Neural Topic Modeling. *Public Performance & Management Review* (Accepted).
+
 **Yanto Chandra**, & **Jianxiang Tan** (2026). Epistemic Capabilities of Artificial Intelligence for Public Administration and Policy Research: A Framework for Scholarship in The Age of Intelligent Machines. *Policy Studies Journal*. [**https://doi.org/10.1111/psj.70165**](https://doi.org/10.1111/psj.70165)
 
 **Jianxiang Tan**, & **Yanto Chandra** (2026). AI Street Level Bureaucracy: Deployment and Preferences for Public Sector Employment. *International Public Management Journal*. [**https://doi.org/10.1080/10967494.2026.2674551**](https://doi.org/10.1080/10967494.2026.2674551).
